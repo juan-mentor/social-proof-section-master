@@ -217,5 +217,6 @@ body {
         width: 85%;
         height: 42rem;
         background-image: url("../images/bg-pattern-bottom-desktop.svg");
+        opacity: 0.5;
     }
 }
